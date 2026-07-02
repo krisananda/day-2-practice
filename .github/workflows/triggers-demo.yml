@@ -38,4 +38,4 @@ jobs:
       - name: Tampilkan pemicu
         run: |
           echo "Pipeline dipicu oleh: ${{ github.event_name }}"
-          echo "Branch/Ref: ${{ github.ref }}"
+          echo "Branch/Ref: ${{ github.ref }}" 
