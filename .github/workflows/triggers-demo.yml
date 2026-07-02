@@ -11,7 +11,7 @@ on:
 
   # Case C: setiap PR menuju main
   pull_request:
-    branches: [main]
+    branches: [main] 
 
   # Case D: saat ada tag versi (mis. v1.2.0) -> cocok untuk release
   # (dipisah karena push tag beda dari push branch)
