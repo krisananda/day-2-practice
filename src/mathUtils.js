@@ -17,4 +17,4 @@ function isPrime(n) {
   return true;
 }
 
-module.exports = { add, divide, isPrime };
+module.exports = { add, divide, isPrime }; 
